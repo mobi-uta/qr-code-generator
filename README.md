@@ -1,7 +1,7 @@
 # qr-code-generator
  
-[Join MOBI here!](http://mobi-bio.glitch.me)
-![MOBI QR Code](MOBI.png)
+[Join MOBI here!](http://mobi-bio.glitch.me)  
+![MOBI QR Code](MOBI.png)  
 ^QR code made with this script
 
 ## Description
